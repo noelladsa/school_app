@@ -1,0 +1,6 @@
+django
+pillow
+django-extensions
+pydot
+pygraphviz
+pyparsing
